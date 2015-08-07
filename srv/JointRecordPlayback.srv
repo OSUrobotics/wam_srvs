@@ -1,4 +1,5 @@
 string data_file	# Fully qualified
+string joint_topic
 ---
 bool ret		# True for success, false for failure
 int32 err_code	
